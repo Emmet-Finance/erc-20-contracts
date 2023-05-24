@@ -29,3 +29,10 @@ Smart contracts of the most popular stablecoins
 2. Binance: [0xd41358A148f929ED1f49325522D182f05837cfF2](https://testnet.bscscan.com/token/0xd41358a148f929ed1f49325522d182f05837cff2#code)
 3. Mumbai: [0xfE6902e5e4a00D5cD2cFec140C81C624A2E1fd7D](https://mumbai.polygonscan.com/address/0xfE6902e5e4a00D5cD2cFec140C81C624A2E1fd7D#code)
 4. Sparknet: [0x29Cb761285C6DeD504526c77F25d1946F0D6e3D5](https://explorer.fusespark.io/address/0x29Cb761285C6DeD504526c77F25d1946F0D6e3D5/contracts#address-tabs)
+
+## BUSD
+
+1. Goerly: [0x2991E99Df3EDD3F15962294A28b0aD1F4d56E07a](https://goerli.etherscan.io/address/0x2991E99Df3EDD3F15962294A28b0aD1F4d56E07a#code)
+2. Binance: [0x45b2936F2209ED757E0f0D320Cdc1652A0Ba0dB1](https://testnet.bscscan.com/address/0x45b2936F2209ED757E0f0D320Cdc1652A0Ba0dB1#code)
+3. Mumbai: [0xFE6095f4eE9DDa119CD83D6fa76eE5Fc02Ae5199](https://mumbai.polygonscan.com/address/0xFE6095f4eE9DDa119CD83D6fa76eE5Fc02Ae5199#code)
+4. Sparknet: [0xbfC41f18673B8Ab3e99Ec91cD5aE433DaC3b9F20](https://explorer.fusespark.io/address/0xbfC41f18673B8Ab3e99Ec91cD5aE433DaC3b9F20/contracts#address-tabs)
